@@ -7,4 +7,4 @@ keywords = ["logging", "debug", "internet-computer", "dfinity", "motoko"]
 license = "MIT"
 
 [dependencies]
-base = "0.10.0"
+base = "0.14.9"
