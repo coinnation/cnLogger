@@ -2,7 +2,7 @@
 name = "cnLogger"
 version = "0.1.0"
 description = "A comprehensive logging system for Internet Computer canisters"
-repository = "https://github.com/yourusername/cnLogger"
+repository = "https://github.com/coinnation/cnLogger"
 keywords = ["logging", "debug", "internet-computer", "dfinity", "motoko"]
 license = "MIT"
 
