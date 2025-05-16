@@ -1,5 +1,5 @@
 [package]
-name = "cnLogger"
+name = "cn-logger"
 version = "0.1.0"
 description = "A comprehensive logging system for Internet Computer canisters"
 repository = "https://github.com/coinnation/cnLogger"
